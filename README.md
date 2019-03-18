@@ -1,16 +1,7 @@
-# flutter_counter
+# Flutter Counter
 
-A new Flutter project.
+[![Build Status](https://api.cirrus-ci.com/github/ajilo297/flutter_counter_bloc.svg)](https://cirrus-ci.com/github/ajilo297/flutter_counter_bloc)
 
-## Getting Started
+A Flutter project with a very basic implementation of the Counter App using BLoC.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+> Source: [Flutter Counter Tutorial](https://felangel.github.io/bloc/#/fluttercountertutorial?id=flutter-counter-tutorial)
