@@ -1,5 +1,4 @@
 import 'package:flutter_counter/blocs/counter_bloc.dart';
-import 'package:flutter_counter/main.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
